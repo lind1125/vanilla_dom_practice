@@ -1,1 +1,2 @@
-console.log('what up, council?')
+const myID = document.querySelector('#header')
+console.log(myID)
