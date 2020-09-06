@@ -14,4 +14,7 @@ inTownItems[1].style.color = 'forestgreen'
 inTownItems[3].innerText = 'Jamboree sandwich at the Jambo-ree'
 
 const andy = document.createElement('img')
-console.log(Objectvalue(andy))
+
+andy.setAttribute('src', './andrew-robbins.png')
+
+console.log(andy)
