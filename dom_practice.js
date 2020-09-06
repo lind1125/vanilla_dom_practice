@@ -17,4 +17,4 @@ const andy = document.createElement('img')
 
 andy.setAttribute('src', './andrew-robbins.png')
 
-console.log(andy)
+document.body.appendChild(andy)
