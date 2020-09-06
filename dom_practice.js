@@ -8,3 +8,5 @@ h2.innerText = h2.innerText + "!!!"
 
 const inTownItems = document.querySelectorAll('.in-town')
 console.log(inTownItems)
+
+inTownItems[1].style.color = 'forestgreen'
