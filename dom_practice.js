@@ -23,3 +23,5 @@ document.querySelectorAll('li').forEach(elem => { elem.style.color = "steelblue"
 
 const para = document.querySelector('p')
 console.log(para)
+
+// para.remove()
