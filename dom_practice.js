@@ -10,3 +10,5 @@ const inTownItems = document.querySelectorAll('.in-town')
 console.log(inTownItems)
 
 inTownItems[1].style.color = 'forestgreen'
+
+inTownItems[3].innerText = 'Jamboree sandwich at the Jambo-ree'
