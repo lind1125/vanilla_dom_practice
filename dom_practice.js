@@ -18,3 +18,5 @@ const andy = document.createElement('img')
 andy.setAttribute('src', './andrew-robbins.png')
 
 document.body.appendChild(andy)
+
+document.querySelectorAll('li').forEach(elem => { elem.style.color = "steelblue"})
